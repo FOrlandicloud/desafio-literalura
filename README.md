@@ -47,9 +47,10 @@ Al ejecutar la aplicación, se muestra un menú con las siguientes opciones:
 6- Top 10 libros más descargados
 7- Obtener estadísticas
 0- Salir
+```
 
 ## Demostracion en GIF
-![Demo del conversor](/demogif/literalura.gif)
+![Demo del conversor](demogif/literalurademo.gif)
 
 ## Arquitectura
 
