@@ -49,7 +49,7 @@ Al ejecutar la aplicación, se muestra un menú con las siguientes opciones:
 0- Salir
 
 ## Demostracion en GIF
-![Demo del conversor](images/Conversor-demo.gif)
+![Demo del conversor](demogif/literalura.gif)
 
 ## Arquitectura
 
